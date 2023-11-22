@@ -1,0 +1,8 @@
+.ending{
+    display: flex;
+    justify-content: space-between;
+}
+.butt{
+    display: flex;
+   flex-direction: column;
+}
